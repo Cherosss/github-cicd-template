@@ -38,3 +38,4 @@ git checkout -b feature/test-feature
 
 Создайте Pull Request на GitHub
 Смотрите вкладку Actions
+fdgfdgdfdfg
